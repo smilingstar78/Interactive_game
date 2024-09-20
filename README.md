@@ -1,0 +1,2 @@
+It is a game in which the user have to guess the specific word that appeared on the screen. Your scores are being calculated as well. If you couldn't guess it will tell the real word and the game will restart. 
+The *Pygame* Library has also been used to make it a little more prettier.
